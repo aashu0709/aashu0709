@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate with web designers
 - 📫 you can mail or text me
-- 😄 Pronouns 
+- 😄 webaashu
 - ⚡ Fun fact: imma singer
 
 <!---
